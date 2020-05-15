@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da492e0aff9b7b44f9db3a806f3eeba2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenzo
+  fontNames:
+  - Kenzo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6db6bea43b5f5c448a2aca8f8c9634c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
